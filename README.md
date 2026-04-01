@@ -28,7 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=tokyonight)
+![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
