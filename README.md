@@ -60,10 +60,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jigyansh-sahu-b39944322">
+  <a href="https://https://www.linkedin.com/in/sourabh-sahu-9a4257315/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sourabh08923email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
