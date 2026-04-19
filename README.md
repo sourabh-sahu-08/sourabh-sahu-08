@@ -65,9 +65,7 @@
 ## 🐍 Contribution Snake (AUTO ANIMATED)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourabh-sahu-08/sourabh-sahu-08/output/github-contribution-grid-snake.svg" />
-</p>
-
+ <img src="https://raw.githubusercontent.com/sourabh-sahu-08/sourabh-sahu-08/output/github-contribution-grid-snake.svg" />
 ---
 
 ## 🚀 Featured Projects
