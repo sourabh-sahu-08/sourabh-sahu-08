@@ -27,7 +27,10 @@
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabh-sahu-08&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sourabh-sahu-08&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" 
+    alt="trophies" 
+  />
 </p>
 
 ---
