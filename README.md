@@ -79,16 +79,33 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jigyansh-sahu-b39944322">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+
+  <a href="https://https://www.linkedin.com/in/sourabh-sahu-9a4257315/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sourabh%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+
+  <a href="mailto:sourabh08923email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
+  <a href="https://github.com/sourabh-sahu-08">
+    <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://https://www.instagram.com/_sourabhh18/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 
 ---
 
