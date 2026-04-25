@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 2nd Year Student passionate about tech  
+- 🎓 2nd Year Student passionate about tech
 - 💻 Exploring **Full Stack Development & DSA**  
 - 🚀 Building real-world impactful projects  
 - 🧠 Curious learner & fast adapter  
