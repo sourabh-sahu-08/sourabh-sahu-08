@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 - 🎓 2nd Year Student passionate about tech
-- 💻 Exploring **Full Stack Development & DSA**  
+- 💻 Exploring **Full Stack Development & DSA**
 - 🚀 Building real-world impactful projects  
 - 🧠 Curious learner & fast adapter  
 - 🎯 Goal: Become a top software engineer  
