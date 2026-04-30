@@ -12,8 +12,8 @@
 - 💻 Exploring **Full Stack Development & DSA**
 - 🚀 Building real-world impactful projects  
 - 🧠 Curious learner & fast adapter  
-- 🎯 Goal: Become a top software engineer  
-
+- 🎯 Goal: Become a top software engineer
+  
 ---
 
 ## 🛠️ Tech Stack
