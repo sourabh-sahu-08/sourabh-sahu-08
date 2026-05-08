@@ -3,54 +3,75 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0f172a,50:111827,100:312e81&text=Sourabh%20Sahu&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20MERN%20•%20DSA&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:020617,50:111827,100:312e81&text=Sourabh%20Sahu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=full%20stack%20developer%20•%20mern%20•%20dsa&descAlignY=60&descSize=20"/>
 </p>
 
-<!-- ================= CAT GIF ================= -->
+<!-- ================= CYBER CAT ================= -->
 
 <p align="center">
-  <img width="140" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
+  <img width="160" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
 </p>
 
 <!-- ================= TYPING EFFECT ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=850&lines=building+cool+stuff.;full+stack+developer;mern+stack+%2B+dsa;clean+ui%2Fux+enjoyer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&lines=building+cool+things.;mern+stack+developer.;clean+ui+enthusiast.;currently+grinding+dsa.;debugging+at+3am+like+a+pro."/>
 </p>
 
-<!-- ================= BADGES ================= -->
+<!-- ================= SOCIAL BADGES ================= -->
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&label=Followers&labelColor=111827&color=1e293b"/>
+<img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&label=followers&labelColor=0f172a&color=1e293b"/>
 
-<img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&label=Stars&labelColor=111827&color=312e81"/>
+<img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&label=stars&labelColor=0f172a&color=312e81"/>
 
 <img src="https://komarev.com/ghpvc/?username=sourabh-sahu-08&style=for-the-badge&color=0f172a"/>
 
 </p>
 
----
+<!-- ================= DIVIDER ================= -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750219-1a7b0d59-8a94-4c8f-8f89-3b6c6d9759c6.gif" width="100%">
+</p>
 
 # about me
 
-<img align="right" width="260" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
+<img align="right" width="270" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
 
 ```ts
 const sourabh = {
   role: "Full Stack Developer",
-  stack: ["React", "Node.js", "MongoDB", "Express"],
-  interests: ["UI/UX", "DSA", "Backend Systems"],
-  currentlyLearning: ["Next.js", "System Design"],
-  funFact: "debugging > sleeping"
+  
+  techStack: {
+    frontend: ["React", "Next.js", "Tailwind"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB", "Firebase"]
+  },
+
+  interests: [
+    "UI/UX",
+    "DSA",
+    "Backend Systems",
+    "AI Tools"
+  ],
+
+  currentlyLearning: [
+    "System Design",
+    "Advanced Backend",
+    "Scalable Architecture"
+  ],
+
+  motto: "build. learn. repeat."
 };
 ```
 
-- building modern full-stack apps  
-- focused on clean ui & smooth ux  
-- solving dsa consistently  
+- building modern full-stack applications  
+- focused on minimal & smooth ui/ux  
 - learning scalable backend architecture  
-- trying to make the internet look cooler  
+- solving dsa consistently  
+- trying to make the internet less boring  
 
 ---
 
@@ -58,7 +79,7 @@ const sourabh = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,postman,vercel&theme=dark"/>
 
 </p>
 
@@ -68,7 +89,7 @@ const sourabh = {
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1&icon_color=818cf8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1&icon_color=818cf8&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=sourabh-sahu-08&theme=transparent&hide_border=true&ring=818cf8&fire=7dd3fc&currStreakLabel=cbd5e1"/>
 
@@ -99,7 +120,7 @@ const sourabh = {
 
 <td width="50%">
 
-### basera 🏠
+## 🏠 basera
 
 student housing & mess finder platform with modern ui.
 
@@ -111,7 +132,7 @@ react • node • mongodb • express
 
 <td width="50%">
 
-### ai projects 🤖
+## 🤖 ai projects
 
 automation tools & productivity focused apps.
 
@@ -126,7 +147,7 @@ react • firebase • apis
 
 ---
 
-# trophies
+# github achievements
 
 <p align="center">
 
@@ -136,7 +157,7 @@ react • firebase • apis
 
 ---
 
-# snake animation
+# contribution snake
 
 <p align="center">
 
@@ -146,7 +167,15 @@ react • firebase • apis
 
 ---
 
-# connect
+# coding vibe
+
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f4e-4b19-9f0b-9b0f5b6f0b93.gif"/>
+</p>
+
+---
+
+# connect with me
 
 <p align="center">
 
@@ -176,10 +205,10 @@ react • firebase • apis
 
 # current status
 
-```txt
+```bash
 > learning
 > building
-> improving
+> debugging
 > repeating
 ```
 
@@ -216,12 +245,13 @@ react • firebase • apis
 # fun fact
 
 ```txt
-i don't just write code.
-i build experiences.
+there's a 90% chance i'm either coding,
+watching anime,
+or fixing a bug caused by one missing semicolon.
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:312e81"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:111827,100:312e81"/>
 </p>
