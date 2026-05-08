@@ -79,16 +79,23 @@ AI-powered tools, automation workflows & productivity applications.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-sahu-08&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+  />
+
+  <img 
+    width="49%" 
+    src="https://streak-stats.demolab.com?user=sourabh-sahu-08&theme=tokyonight&hide_border=true&border_radius=15" 
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-sahu-08&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img 
+    width="40%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-sahu-08&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+  />
 </p>
-
----
 
 # ⚡ Contribution Graph
 
