@@ -188,11 +188,11 @@ sourabh@github:~$ tech-radar
 ```
 
 ```txt
-frontend      ██████████
-backend       ████████░░
-ui/ux         █████████░
-dsa           ███████░░░
-problem_solving ████████░░
+frontend         ██████████
+backend          ████████░░
+ui/ux            █████████░
+dsa              ███████░░░
+problem_solving  ████████░░
 ```
 
 ---
@@ -205,7 +205,7 @@ sourabh@github:~$ show github-analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1&icon_color=818cf8&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1&icon_color=818cf8&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=sourabh-sahu-08&theme=transparent&hide_border=true&ring=818cf8&fire=7dd3fc&currStreakLabel=cbd5e1"/>
 
@@ -213,7 +213,7 @@ sourabh@github:~$ show github-analytics
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-sahu-08&layout=compact&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1"/>
+<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourabh-sahu-08&layout=compact&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1"/>
 
 </p>
 
