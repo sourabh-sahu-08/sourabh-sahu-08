@@ -1,62 +1,70 @@
-<!-- ===================================================== -->
-<!--                 ULTRA PREMIUM README                  -->
-<!-- ===================================================== -->
+<!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:00F7FF,100:6C63FF&text=Sourabh%20Sahu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20DSA%20Enthusiast&descAlignY=57&descSize=20"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Sourabh%20Sahu&fontSize=65&fontColor=ffffff&stroke=00F7FF&strokeWidth=1.5&animation=fadeIn&colorA=0D1117&colorB=6C63FF&desc=🚀%20Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20DSA%20Enthusiast&descAlignY=65&descSize=22"/>
+
 </p>
+
+<!-- ================= ANIMATED TYPING ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Building+Modern+Web+Applications;💻+MERN+Stack+Developer;🧠+Problem+Solver+%26+DSA+Learner;⚡+Passionate+About+Tech+%26+Innovation;🌟+Always+Learning+New+Things"/>
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Building+Cool+Web+Experiences;🚀+Full+Stack+MERN+Developer;🧠+DSA+%26+Problem+Solving+Enthusiast;🌌+Crafting+Modern+UI%2FUX;💻+Turning+Ideas+Into+Reality"/>
+
 </p>
+
+<!-- ================= COOL BADGES ================= -->
 
 <p align="center">
-  <a href="https://github.com/sourabh-sahu-08">
-    <img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117"/>
-  </a>
 
-  <a href="https://github.com/sourabh-sahu-08">
-    <img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117"/>
-  </a>
+<img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&label=Followers&color=00F7FF&labelColor=0D1117"/>
 
-  <img src="https://komarev.com/ghpvc/?username=sourabh-sahu-08&style=for-the-badge&color=00F7FF"/>
+<img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&label=Stars&color=6C63FF&labelColor=0D1117"/>
+
+<img src="https://komarev.com/ghpvc/?username=sourabh-sahu-08&style=for-the-badge&color=00F7FF"/>
+
 </p>
 
----
+<!-- ================= DIVIDER ================= -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212750219-1a7b0d59-8a94-4c8f-8f89-3b6c6d9759c6.gif" width="100%">
+
+<!-- ================= ABOUT ================= -->
 
 # 🌌 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/216656971-9aefe7b2-65b9-4e8c-8f2e-4b6e7f0f84d8.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656971-9aefe7b2-65b9-4e8c-8f2e-4b6e7f0f84d8.gif"/>
 
 ```yaml
 👨‍💻 Name: Sourabh Sahu
-🎓 Education: B.Tech CSE (2nd Year)
+🎓 B.Tech CSE Student
 
-🚀 Interests:
+💡 Interests:
   - Full Stack Development
-  - Data Structures & Algorithms
+  - MERN Stack
+  - DSA & Problem Solving
   - UI/UX Engineering
-  - Backend Architecture
 
-⚡ Currently Learning:
-  - Advanced React
+⚡ Currently Exploring:
   - Next.js
   - System Design
-  - Scalable Systems
+  - Backend Scaling
+  - AI Integrations
 
-🎯 Goal:
-  Become a top software engineer & build impactful products
+🎯 Mission:
+  Build impactful products & grow as a software engineer 🚀
 ```
 
-- 💻 Passionate about modern web development  
-- ⚡ Love building fast & responsive applications  
+- 🚀 Passionate about creating modern web applications  
+- 💻 Love crafting premium UI/UX experiences  
 - 🧠 Solving DSA problems consistently  
-- 🚀 Exploring scalable backend systems  
+- ⚡ Exploring scalable backend systems  
 - 🌱 Learning something new every single day  
 
 ---
 
-# ⚒️ Tech Arsenal
+# ⚒️ Tech Stack
 
 <p align="center">
 
@@ -87,10 +95,10 @@ A student housing & mess finder platform helping students discover affordable st
 
 <td width="50%">
 
-<h3 align="center">🤖 AI Automation Projects</h3>
+<h3 align="center">🤖 AI Projects</h3>
 
 <p align="center">
-AI-powered tools, automation workflows & productivity applications.
+AI-powered automation tools & modern productivity applications.
 </p>
 
 <p align="center">
@@ -110,13 +118,13 @@ AI-powered tools, automation workflows & productivity applications.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-sahu-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sourabh-sahu-08&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-sahu-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-sahu-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 </p>
 
@@ -125,7 +133,9 @@ AI-powered tools, automation workflows & productivity applications.
 # ⚡ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-sahu-08&theme=react-dark&hide_border=true&area=true"/>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-sahu-08&theme=react-dark&hide_border=true&area=true"/>
+
 </p>
 
 ---
@@ -133,7 +143,9 @@ AI-powered tools, automation workflows & productivity applications.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabh-sahu-08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6"/>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=sourabh-sahu-08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6"/>
+
 </p>
 
 ---
@@ -141,28 +153,10 @@ AI-powered tools, automation workflows & productivity applications.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourabh-sahu-08/sourabh-sahu-08/output/github-contribution-grid-snake-dark.svg"/>
+  
+<img src="https://raw.githubusercontent.com/sourabh-sahu-08/sourabh-sahu-08/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
-
-<!-- IMPORTANT -->
-<!-- TO MAKE SNAKE WORK FOLLOW THESE STEPS:
-
-1. Create repository:
-   sourabh-sahu-08
-
-2. Go to:
-   Settings -> Actions -> General
-
-3. Enable:
-   Read and write permissions
-
-4. Create file:
-   .github/workflows/snake.yml
-
-5. Paste workflow from:
-   https://github.com/Platane/snk
-
--->
 
 ---
 
@@ -197,15 +191,19 @@ AI-powered tools, automation workflows & productivity applications.
 # 💭 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 😂 Random Dev Joke
+# 😂 Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
 </p>
 
 ---
@@ -213,13 +211,17 @@ AI-powered tools, automation workflows & productivity applications.
 # 🔥 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabh-sahu-08&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabh-sahu-08&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourabh-sahu-08&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourabh-sahu-08&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourabh-sahu-08&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourabh-sahu-08&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -229,8 +231,8 @@ AI-powered tools, automation workflows & productivity applications.
 ```txt
 🚀 Building Full Stack Projects
 🧠 Improving DSA Skills
-⚡ Learning Scalable Backend Systems
-🌌 Creating Modern UI/UX Experiences
+⚡ Learning Backend Architecture
+🌌 Creating Premium UI/UX Experiences
 ```
 
 ---
@@ -241,7 +243,7 @@ AI-powered tools, automation workflows & productivity applications.
 
 ```txt
 I don't just write code...
-I engineer digital experiences 🚀
+I create experiences 🚀
 ```
 
 </p>
@@ -249,5 +251,7 @@ I engineer digital experiences 🚀
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00F7FF,100:6C63FF&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00F7FF,100:6C63FF"/>
+
 </p>
