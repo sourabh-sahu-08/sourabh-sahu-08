@@ -1,13 +1,13 @@
 <!-- ===================================================== -->
-<!--                 PREMIUM GITHUB README                 -->
+<!--                 ULTRA PREMIUM README                  -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F7FF,100:6C63FF&text=Sourabh%20Sahu&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Developer%20•%20Tech%20Explorer&descAlignY=57&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:00F7FF,100:6C63FF&text=Sourabh%20Sahu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20DSA%20Enthusiast&descAlignY=57&descSize=20"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🧠+Problem+Solver+%26+DSA+Learner;⚡+Building+Modern+Web+Applications;🌟+Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Building+Modern+Web+Applications;💻+MERN+Stack+Developer;🧠+Problem+Solver+%26+DSA+Learner;⚡+Passionate+About+Tech+%26+Innovation;🌟+Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
@@ -24,52 +24,43 @@
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/216656971-9aefe7b2-65b9-4e8c-8f2e-4b6e7f0f84d8.gif"/>
 
 ```yaml
-Name: Sourabh Sahu
-Role: Full Stack Developer
-Education: B.Tech CSE (2nd Year)
-Focus:
-  - MERN Stack
+👨‍💻 Name: Sourabh Sahu
+🎓 Education: B.Tech CSE (2nd Year)
+
+🚀 Interests:
+  - Full Stack Development
   - Data Structures & Algorithms
-  - UI/UX Development
-  - Backend Systems
+  - UI/UX Engineering
+  - Backend Architecture
 
-Currently Learning:
+⚡ Currently Learning:
   - Advanced React
+  - Next.js
   - System Design
-  - Scalable Architecture
+  - Scalable Systems
 
-Goal:
-  Become a top software engineer 🚀
+🎯 Goal:
+  Become a top software engineer & build impactful products
 ```
 
-- 🚀 Passionate about building impactful products  
-- 💻 Love creating modern & responsive UIs  
+- 💻 Passionate about modern web development  
+- ⚡ Love building fast & responsive applications  
 - 🧠 Solving DSA problems consistently  
-- 🌱 Exploring scalable backend systems  
-- ⚡ Always improving, learning & building  
+- 🚀 Exploring scalable backend systems  
+- 🌱 Learning something new every single day  
 
 ---
 
-# ⚒️ Tech Stack
+# ⚒️ Tech Arsenal
 
 <p align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript"/>
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs"/>
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,postman,vercel&perline=9"/>
 
 </p>
 
@@ -85,11 +76,11 @@ Goal:
 <h3 align="center">🏠 Basera</h3>
 
 <p align="center">
-Student housing & mess finder platform helping students find affordable stays and food services easily.
+A student housing & mess finder platform helping students discover affordable stays & food services.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 </p>
 
 </td>
@@ -99,7 +90,7 @@ Student housing & mess finder platform helping students find affordable stays an
 <h3 align="center">🤖 AI Automation Projects</h3>
 
 <p align="center">
-AI-powered tools, smart automations & productivity web applications.
+AI-powered tools, automation workflows & productivity applications.
 </p>
 
 <p align="center">
@@ -119,7 +110,7 @@ AI-powered tools, smart automations & productivity web applications.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=sourabh-sahu-08&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-sahu-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </p>
 
@@ -139,7 +130,7 @@ AI-powered tools, smart automations & productivity web applications.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sourabh-sahu-08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6"/>
@@ -152,6 +143,26 @@ AI-powered tools, smart automations & productivity web applications.
 <p align="center">
   <img src="https://raw.githubusercontent.com/sourabh-sahu-08/sourabh-sahu-08/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+<!-- IMPORTANT -->
+<!-- TO MAKE SNAKE WORK FOLLOW THESE STEPS:
+
+1. Create repository:
+   sourabh-sahu-08
+
+2. Go to:
+   Settings -> Actions -> General
+
+3. Enable:
+   Read and write permissions
+
+4. Create file:
+   .github/workflows/snake.yml
+
+5. Paste workflow from:
+   https://github.com/Platane/snk
+
+-->
 
 ---
 
@@ -183,7 +194,7 @@ AI-powered tools, smart automations & productivity web applications.
 
 ---
 
-# 💭 Developer Quote
+# 💭 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -199,19 +210,28 @@ AI-powered tools, smart automations & productivity web applications.
 
 ---
 
-# 🎧 Currently Vibing To
+# 🔥 GitHub Metrics
 
 <p align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z6h2zq2y7lznm2vgh3tsf64zqa&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabh-sahu-08&theme=tokyonight"/>
 </p>
 
-<!-- 
-IF SPOTIFY STILL BREAKS:
-JUST REMOVE THE ENTIRE SPOTIFY SECTION.
-IT REQUIRES SPOTIFY API CONFIGURATION.
--->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourabh-sahu-08&theme=tokyonight"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourabh-sahu-08&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```txt
+🚀 Building Full Stack Projects
+🧠 Improving DSA Skills
+⚡ Learning Scalable Backend Systems
+🌌 Creating Modern UI/UX Experiences
+```
 
 ---
 
@@ -221,7 +241,7 @@ IT REQUIRES SPOTIFY API CONFIGURATION.
 
 ```txt
 I don't just write code...
-I build experiences 🚀
+I engineer digital experiences 🚀
 ```
 
 </p>
@@ -229,5 +249,5 @@ I build experiences 🚀
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00F7FF,100:6C63FF&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00F7FF,100:6C63FF&section=footer"/>
 </p>
