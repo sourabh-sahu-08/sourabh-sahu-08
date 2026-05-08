@@ -1,81 +1,99 @@
 <!-- ================================================= -->
-<!--                SOURABH SAHU README                -->
+<!--              SOURABH SAHU • README                -->
 <!-- ================================================= -->
 
+<!-- HERO -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:020617,50:111827,100:312e81&text=Sourabh%20Sahu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=full%20stack%20developer%20•%20mern%20•%20dsa&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=320&color=0:020617,50:0f172a,100:312e81&text=Sourabh%20Sahu&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=full%20stack%20developer%20•%20mern%20•%20ui%2Fux&descAlignY=60&descSize=20"/>
 </p>
 
-<!-- ================= CYBER CAT ================= -->
+<!-- CAT -->
 
 <p align="center">
-  <img width="160" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
+  <img width="150" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
 </p>
 
-<!-- ================= TYPING EFFECT ================= -->
+<!-- TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&lines=building+cool+things.;mern+stack+developer.;clean+ui+enthusiast.;currently+grinding+dsa.;debugging+at+3am+like+a+pro."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=850&lines=building+cool+web+experiences.;mern+stack+developer.;minimal+ui+lover.;currently+grinding+dsa.;debugging+life+one+bug+at+a+time."/>
 </p>
 
-<!-- ================= SOCIAL BADGES ================= -->
+<!-- SOCIAL STATS -->
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&label=followers&labelColor=0f172a&color=1e293b"/>
+<img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&labelColor=0f172a&color=1e293b"/>
 
-<img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&label=stars&labelColor=0f172a&color=312e81"/>
+<img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&labelColor=0f172a&color=312e81"/>
 
 <img src="https://komarev.com/ghpvc/?username=sourabh-sahu-08&style=for-the-badge&color=0f172a"/>
 
 </p>
 
-<!-- ================= DIVIDER ================= -->
+<!-- DIVIDER -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750219-1a7b0d59-8a94-4c8f-8f89-3b6c6d9759c6.gif" width="100%">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750219-1a7b0d59-8a94-4c8f-8f89-3b6c6d9759c6.gif"/>
 </p>
 
-# about me
+# about_me.ts
 
-<img align="right" width="270" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
+<img align="right" width="280" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
 
 ```ts
-const sourabh = {
-  role: "Full Stack Developer",
-  
-  techStack: {
-    frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB", "Firebase"]
-  },
+class Developer {
+  name = "Sourabh Sahu";
 
-  interests: [
-    "UI/UX",
-    "DSA",
-    "Backend Systems",
-    "AI Tools"
-  ],
+  role = "Full Stack Developer";
 
-  currentlyLearning: [
+  stack = {
+    frontend: [
+      "React",
+      "Next.js",
+      "TailwindCSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express"
+    ],
+
+    database: [
+      "MongoDB",
+      "Firebase"
+    ]
+  };
+
+  currentlyLearning = [
     "System Design",
-    "Advanced Backend",
-    "Scalable Architecture"
-  ],
+    "Backend Scaling",
+    "Advanced React"
+  ];
 
-  motto: "build. learn. repeat."
-};
+  hobbies = [
+    "coding",
+    "anime",
+    "designing",
+    "late night debugging"
+  ];
+
+  motto = "build • break • learn • repeat";
+}
+
+export default new Developer();
 ```
 
-- building modern full-stack applications  
-- focused on minimal & smooth ui/ux  
-- learning scalable backend architecture  
+- building modern & responsive web applications  
+- obsessed with clean ui & smooth ux  
+- learning scalable backend systems  
 - solving dsa consistently  
-- trying to make the internet less boring  
+- trying to make cool stuff on the internet  
 
 ---
 
-# tech stack
+# tech_stack/
 
 <p align="center">
 
@@ -85,7 +103,7 @@ const sourabh = {
 
 ---
 
-# github analytics
+# github_analytics/
 
 <p align="center">
 
@@ -103,7 +121,7 @@ const sourabh = {
 
 ---
 
-# contribution graph
+# contribution_graph/
 
 <p align="center">
 
@@ -113,7 +131,7 @@ const sourabh = {
 
 ---
 
-# featured projects
+# featured_projects/
 
 <table>
 <tr>
@@ -122,22 +140,29 @@ const sourabh = {
 
 ## 🏠 basera
 
-student housing & mess finder platform with modern ui.
+modern student housing & mess finder platform.
 
-```txt
-react • node • mongodb • express
+```yaml
+stack:
+  - react
+  - nodejs
+  - mongodb
+  - express
 ```
 
 </td>
 
 <td width="50%">
 
-## 🤖 ai projects
+## 🤖 ai_projects
 
-automation tools & productivity focused apps.
+automation tools & ai productivity apps.
 
-```txt
-react • firebase • apis
+```yaml
+stack:
+  - react
+  - firebase
+  - apis
 ```
 
 </td>
@@ -147,7 +172,7 @@ react • firebase • apis
 
 ---
 
-# github achievements
+# github_achievements/
 
 <p align="center">
 
@@ -157,7 +182,7 @@ react • firebase • apis
 
 ---
 
-# contribution snake
+# contribution_snake/
 
 <p align="center">
 
@@ -167,7 +192,7 @@ react • firebase • apis
 
 ---
 
-# coding vibe
+# coding_vibes/
 
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f4e-4b19-9f0b-9b0f5b6f0b93.gif"/>
@@ -175,7 +200,7 @@ react • firebase • apis
 
 ---
 
-# connect with me
+# connect/
 
 <p align="center">
 
@@ -203,18 +228,19 @@ react • firebase • apis
 
 ---
 
-# current status
+# currently/
 
 ```bash
-> learning
-> building
-> debugging
-> repeating
+Status:     coding...
+Mood:       focused
+Learning:   system design
+Watching:   anime probably
+Energy:     ██████████ 100%
 ```
 
 ---
 
-# random dev quote
+# random_dev_quote/
 
 <p align="center">
 
@@ -224,7 +250,7 @@ react • firebase • apis
 
 ---
 
-# github metrics
+# github_metrics/
 
 <p align="center">
 
@@ -242,16 +268,35 @@ react • firebase • apis
 
 ---
 
-# fun fact
+# terminal/
+
+```bash
+$ whoami
+> sourabh sahu
+
+$ skills --show
+> full stack development
+> mern stack
+> dsa
+> ui/ux
+
+$ motto
+> build cool things.
+```
+
+---
+
+# fun_fact/
 
 ```txt
-there's a 90% chance i'm either coding,
+there's a high chance i'm either:
+coding,
 watching anime,
-or fixing a bug caused by one missing semicolon.
+or fixing a bug caused by one missing bracket.
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:111827,100:312e81"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,50:0f172a,100:312e81"/>
 </p>
