@@ -1,23 +1,21 @@
-<!-- ================================================= -->
-<!--                SOURABH SAHU README                -->
-<!-- ================================================= -->
+<!-- ========================================================= -->
+<!--                     SOURABH SAHU                          -->
+<!-- ========================================================= -->
 
 <!-- HERO -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,50:0f172a,100:312e81&text=Sourabh%20Sahu&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full%20stack%20developer%20•%20mern%20stack%20•%20ui%2Fux&descAlignY=58&descSize=20"/>
-</p>
 
-<!-- CYBER CAT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,45:0f172a,100:312e81&text=Sourabh%20Sahu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full%20stack%20developer%20•%20mern%20stack%20•%20ui%2Fux&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <img width="130" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
 </p>
 
 <!-- TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=building+modern+web+experiences.;full+stack+developer.;clean+ui+%2B+smooth+ux.;currently+grinding+dsa.;shipping+projects+late+at+night."/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3200&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=building+modern+web+experiences.;crafting+clean+ui+%2B+smooth+ux.;mern+stack+developer.;currently+grinding+dsa.;shipping+projects+late+at+night."/>
+
 </p>
 
 <!-- SOCIALS -->
@@ -38,22 +36,16 @@
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750219-1a7b0d59-8a94-4c8f-8f89-3b6c6d9759c6.gif"/>
 </p>
 
-# ./about_me
+<!-- ABOUT -->
 
-<div align="center">
+```bash
+sourabh@github:~$ cat about.txt
+```
 
-<img width="260" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
-
-</div>
-
-<table>
-<tr>
-<td>
+<img align="right" width="260" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
 
 ```ts
-const developer = {
-  name: "Sourabh Sahu",
-
+const sourabh = {
   role: "Full Stack Developer",
 
   stack: {
@@ -74,68 +66,142 @@ const developer = {
     ]
   },
 
+  interests: [
+    "UI/UX",
+    "DSA",
+    "Backend Systems",
+    "Modern Web Apps"
+  ],
+
   currentlyLearning: [
     "System Design",
     "Backend Scaling",
     "Advanced React"
   ],
 
-  interests: [
-    "UI/UX",
-    "DSA",
-    "AI Tools",
-    "Modern Web Apps"
-  ]
+  motto: "build • improve • repeat"
 };
 ```
 
-</td>
-
-<td>
-
-```bash
-> building modern web apps
-
-> focused on smooth ui/ux
-
-> learning scalable systems
-
+```txt
+> building modern web applications
+> focused on smooth ui & clean ux
 > solving dsa consistently
-
-> turning ideas into products
+> learning scalable backend systems
+> turning ideas into real products
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<!-- MINI STATS -->
+<!-- DIGITAL IDENTITY -->
+
+```bash
+sourabh@github:~$ cat digital_identity.yml
+```
+
+```yaml
+name: Sourabh Sahu
+location: India
+role: Full Stack Developer
+focus: Modern Web Experiences
+status: online
+learning: System Design
+```
+
+---
+
+<!-- TECH STACK -->
+
+```bash
+sourabh@github:~$ ./load_tech_stack
+```
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/code-react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/backend-nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/database-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/editor-vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,postman,vercel&theme=dark"/>
 
 </p>
 
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### frontend
+
+```txt
+react
+nextjs
+tailwind
+typescript
+```
+
+</td>
+
+<td align="center" width="25%">
+
+### backend
+
+```txt
+nodejs
+express
+rest apis
+firebase
+```
+
+</td>
+
+<td align="center" width="25%">
+
+### database
+
+```txt
+mongodb
+firebase
+data modeling
+```
+
+</td>
+
+<td align="center" width="25%">
+
+### tools
+
+```txt
+git
+github
+vscode
+postman
+```
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-# ./tech_stack
+<!-- TECH RADAR -->
 
-<div align="center">
+```bash
+sourabh@github:~$ tech-radar
+```
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,postman,vercel&theme=dark"/>
-
-</div>
+```txt
+frontend      ██████████
+backend       ████████░░
+ui/ux         █████████░
+dsa           ███████░░░
+problem_solving ████████░░
+```
 
 ---
 
-# ./github_analytics
+<!-- GITHUB ANALYTICS -->
+
+```bash
+sourabh@github:~$ show github-analytics
+```
 
 <p align="center">
 
@@ -151,9 +217,21 @@ const developer = {
 
 </p>
 
+<!-- GRAPH -->
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-sahu-08&theme=github-compact&hide_border=true&area=true"/>
+
+</p>
+
 ---
 
-# ./featured_projects
+<!-- PROJECTS -->
+
+```bash
+sourabh@github:~$ ls featured-projects/
+```
 
 <table>
 <tr>
@@ -162,27 +240,29 @@ const developer = {
 
 ## 🏠 basera
 
-student housing & mess finder platform with clean ui.
+modern student housing & mess finder platform.
 
 ```yaml
-react
-nodejs
-express
-mongodb
+stack:
+  - react
+  - nodejs
+  - express
+  - mongodb
 ```
 
 </td>
 
 <td width="50%">
 
-## 🤖 ai_projects
+## 🤖 ai-projects
 
-automation & productivity focused web apps.
+automation & productivity focused applications.
 
 ```yaml
-react
-firebase
-apis
+stack:
+  - react
+  - firebase
+  - apis
 ```
 
 </td>
@@ -192,17 +272,11 @@ apis
 
 ---
 
-# ./contribution_graph
+<!-- ACHIEVEMENTS -->
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-sahu-08&theme=github-compact&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# ./achievements
+```bash
+sourabh@github:~$ achievements --show
+```
 
 <p align="center">
 
@@ -212,7 +286,11 @@ apis
 
 ---
 
-# ./snake
+<!-- CONTRIBUTION SNAKE -->
+
+```bash
+sourabh@github:~$ run snake-animation
+```
 
 <p align="center">
 
@@ -222,7 +300,47 @@ apis
 
 ---
 
-# ./connect
+<!-- CURRENT STATUS -->
+
+```bash
+sourabh@github:~$ status
+```
+
+```yaml
+currently_building:
+  - full stack projects
+
+currently_learning:
+  - system design
+  - scalable backend architecture
+
+current_mood:
+  - locked in
+
+currently_listening_to:
+  - lofi beats
+```
+
+---
+
+<!-- DEV PHILOSOPHY -->
+
+```bash
+sourabh@github:~$ cat philosophy.txt
+```
+
+```txt
+build things that feel simple,
+even when the code isn't.
+```
+
+---
+
+<!-- CONNECT -->
+
+```bash
+sourabh@github:~$ connect --socials
+```
 
 <p align="center">
 
@@ -250,21 +368,45 @@ apis
 
 ---
 
-# ./terminal
+<!-- TERMINAL -->
 
 ```bash
-$ whoami
-> sourabh sahu
+sourabh@github:~$ terminal
+```
 
-$ status
-> building cool things
+```txt
+whoami:
+  sourabh sahu
 
-$ currently
-> coding + learning + debugging
+speciality:
+  full stack development
+
+focus:
+  clean ui/ux + scalable apps
+
+status:
+  coding...
 ```
 
 ---
 
+<!-- FUN FACT -->
+
+```bash
+sourabh@github:~$ fun-fact
+```
+
+```txt
+most bugs disappear
+the moment i ask someone else for help.
+```
+
+---
+
+<!-- FOOTER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0f172a,100:312e81"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,45:0f172a,100:312e81"/>
+
 </p>
