@@ -38,17 +38,25 @@
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750219-1a7b0d59-8a94-4c8f-8f89-3b6c6d9759c6.gif"/>
 </p>
 
-# about_me.ts
+# about_me/
 
 <img align="right" width="280" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
 
+```bash
+> initializing developer profile...
+
+name        :: Sourabh Sahu
+role        :: Full Stack Developer
+speciality  :: MERN Stack + UI/UX
+location    :: India
+status      :: building cool stuff 🚀
+```
+
 ```ts
-class Developer {
-  name = "Sourabh Sahu";
+const sourabh = {
+  code: ["JavaScript", "TypeScript", "C++", "Python"],
 
-  role = "Full Stack Developer";
-
-  stack = {
+  technologies: {
     frontend: [
       "React",
       "Next.js",
@@ -60,38 +68,60 @@ class Developer {
       "Express"
     ],
 
-    database: [
+    databases: [
       "MongoDB",
       "Firebase"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "VS Code"
     ]
-  };
+  },
 
-  currentlyLearning = [
+  currentFocus: [
+    "Full Stack Development",
+    "DSA",
     "System Design",
-    "Backend Scaling",
-    "Advanced React"
-  ];
+    "Scalable Backend Architecture"
+  ],
 
-  hobbies = [
-    "coding",
-    "anime",
-    "designing",
-    "late night debugging"
-  ];
-
-  motto = "build • break • learn • repeat";
-}
-
-export default new Developer();
+  mindset: "build • improve • repeat"
+};
 ```
 
-- building modern & responsive web applications  
-- obsessed with clean ui & smooth ux  
-- learning scalable backend systems  
-- solving dsa consistently  
-- trying to make cool stuff on the internet  
+<div align="left">
 
----
+```txt
+✓ building modern web applications
+✓ focused on clean ui & smooth ux
+✓ learning scalable backend systems
+✓ solving dsa consistently
+✓ turning ideas into real products
+```
+
+</div>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+</p>
+
+```txt
+currently listening to:
+lofi + keyboard sounds + existential debugging
+```
 
 # tech_stack/
 
