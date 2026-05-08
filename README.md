@@ -1,32 +1,32 @@
 <!-- ================================================= -->
-<!--              SOURABH SAHU • README                -->
+<!--                SOURABH SAHU README                -->
 <!-- ================================================= -->
 
 <!-- HERO -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=320&color=0:020617,50:0f172a,100:312e81&text=Sourabh%20Sahu&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=full%20stack%20developer%20•%20mern%20•%20ui%2Fux&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,50:0f172a,100:312e81&text=Sourabh%20Sahu&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full%20stack%20developer%20•%20mern%20stack%20•%20ui%2Fux&descAlignY=58&descSize=20"/>
 </p>
 
-<!-- CAT -->
+<!-- CYBER CAT -->
 
 <p align="center">
-  <img width="150" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
+  <img width="130" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
 </p>
 
 <!-- TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=850&lines=building+cool+web+experiences.;mern+stack+developer.;minimal+ui+lover.;currently+grinding+dsa.;debugging+life+one+bug+at+a+time."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=building+modern+web+experiences.;full+stack+developer.;clean+ui+%2B+smooth+ux.;currently+grinding+dsa.;shipping+projects+late+at+night."/>
 </p>
 
-<!-- SOCIAL STATS -->
+<!-- SOCIALS -->
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&labelColor=0f172a&color=1e293b"/>
+<img src="https://img.shields.io/github/followers/sourabh-sahu-08?style=for-the-badge&logo=github&label=followers&labelColor=020617&color=111827"/>
 
-<img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&labelColor=0f172a&color=312e81"/>
+<img src="https://img.shields.io/github/stars/sourabh-sahu-08?style=for-the-badge&logo=github&label=stars&labelColor=020617&color=312e81"/>
 
 <img src="https://komarev.com/ghpvc/?username=sourabh-sahu-08&style=for-the-badge&color=0f172a"/>
 
@@ -38,25 +38,25 @@
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750219-1a7b0d59-8a94-4c8f-8f89-3b6c6d9759c6.gif"/>
 </p>
 
-# about_me/
+# ./about_me
 
-<img align="right" width="280" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
+<div align="center">
 
-```bash
-> initializing developer profile...
+<img width="260" src="https://media.tenor.com/LrSL7XDKVbgAAAAC/anime-computer.gif"/>
 
-name        :: Sourabh Sahu
-role        :: Full Stack Developer
-speciality  :: MERN Stack + UI/UX
-location    :: India
-status      :: building cool stuff 🚀
-```
+</div>
+
+<table>
+<tr>
+<td>
 
 ```ts
-const sourabh = {
-  code: ["JavaScript", "TypeScript", "C++", "Python"],
+const developer = {
+  name: "Sourabh Sahu",
 
-  technologies: {
+  role: "Full Stack Developer",
+
+  stack: {
     frontend: [
       "React",
       "Next.js",
@@ -65,75 +65,77 @@ const sourabh = {
 
     backend: [
       "Node.js",
-      "Express"
+      "Express.js"
     ],
 
-    databases: [
+    database: [
       "MongoDB",
       "Firebase"
-    ],
-
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "VS Code"
     ]
   },
 
-  currentFocus: [
-    "Full Stack Development",
-    "DSA",
+  currentlyLearning: [
     "System Design",
-    "Scalable Backend Architecture"
+    "Backend Scaling",
+    "Advanced React"
   ],
 
-  mindset: "build • improve • repeat"
+  interests: [
+    "UI/UX",
+    "DSA",
+    "AI Tools",
+    "Modern Web Apps"
+  ]
 };
 ```
 
-<div align="left">
+</td>
 
-```txt
-✓ building modern web applications
-✓ focused on clean ui & smooth ux
-✓ learning scalable backend systems
-✓ solving dsa consistently
-✓ turning ideas into real products
+<td>
+
+```bash
+> building modern web apps
+
+> focused on smooth ui/ux
+
+> learning scalable systems
+
+> solving dsa consistently
+
+> turning ideas into products
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-</p>
-
-```txt
-currently listening to:
-lofi + keyboard sounds + existential debugging
-```
-
-# tech_stack/
+<!-- MINI STATS -->
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,postman,vercel&theme=dark"/>
+<img src="https://img.shields.io/badge/code-react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/backend-nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/database-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/editor-vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
 ---
 
-# github_analytics/
+# ./tech_stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,python,git,github,vscode,postman,vercel&theme=dark"/>
+
+</div>
+
+---
+
+# ./github_analytics
 
 <p align="center">
 
@@ -151,17 +153,7 @@ lofi + keyboard sounds + existential debugging
 
 ---
 
-# contribution_graph/
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-sahu-08&theme=github-compact&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# featured_projects/
+# ./featured_projects
 
 <table>
 <tr>
@@ -170,14 +162,13 @@ lofi + keyboard sounds + existential debugging
 
 ## 🏠 basera
 
-modern student housing & mess finder platform.
+student housing & mess finder platform with clean ui.
 
 ```yaml
-stack:
-  - react
-  - nodejs
-  - mongodb
-  - express
+react
+nodejs
+express
+mongodb
 ```
 
 </td>
@@ -186,13 +177,12 @@ stack:
 
 ## 🤖 ai_projects
 
-automation tools & ai productivity apps.
+automation & productivity focused web apps.
 
 ```yaml
-stack:
-  - react
-  - firebase
-  - apis
+react
+firebase
+apis
 ```
 
 </td>
@@ -202,7 +192,17 @@ stack:
 
 ---
 
-# github_achievements/
+# ./contribution_graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-sahu-08&theme=github-compact&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# ./achievements
 
 <p align="center">
 
@@ -212,7 +212,7 @@ stack:
 
 ---
 
-# contribution_snake/
+# ./snake
 
 <p align="center">
 
@@ -222,15 +222,7 @@ stack:
 
 ---
 
-# coding_vibes/
-
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f4e-4b19-9f0b-9b0f5b6f0b93.gif"/>
-</p>
-
----
-
-# connect/
+# ./connect
 
 <p align="center">
 
@@ -258,75 +250,21 @@ stack:
 
 ---
 
-# currently/
-
-```bash
-Status:     coding...
-Mood:       focused
-Learning:   system design
-Watching:   anime probably
-Energy:     ██████████ 100%
-```
-
----
-
-# random_dev_quote/
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# github_metrics/
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourabh-sahu-08&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourabh-sahu-08&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourabh-sahu-08&theme=github_dark"/>
-
-</p>
-
----
-
-# terminal/
+# ./terminal
 
 ```bash
 $ whoami
 > sourabh sahu
 
-$ skills --show
-> full stack development
-> mern stack
-> dsa
-> ui/ux
+$ status
+> building cool things
 
-$ motto
-> build cool things.
-```
-
----
-
-# fun_fact/
-
-```txt
-there's a high chance i'm either:
-coding,
-watching anime,
-or fixing a bug caused by one missing bracket.
+$ currently
+> coding + learning + debugging
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,50:0f172a,100:312e81"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0f172a,100:312e81"/>
 </p>
