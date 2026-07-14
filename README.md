@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,45:0f172a,100:312e81&text=Sourabh%20Sahu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full%20stack%20developer%20•%20mern%20stack%20•%20ui%2Fux&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,45:0f172a,100:312e81&text=Sourabh%20Sahu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=full%20stack%20developer%20•%20MERN%20stack%20•%20ui%2Fux&descAlignY=58&descSize=18"/>
 
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3200&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=building+modern+web+experiences.;crafting+clean+ui+%2B+smooth+ux.;mern+stack+developer.;currently+grinding+dsa.;shipping+projects+late+at+night."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3200&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=building+modern+web+experiences.;crafting+clean+ui+%2B+smooth+ux.;MERN+stack+developer.;currently+grinding+dsa.;shipping+projects+late+at+night."/>
 
 </p>
 
