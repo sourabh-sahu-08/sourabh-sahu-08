@@ -15,4 +15,28 @@
 ---
 [![](https://komarev.com/ghpvc/?username=sourabh-sahu-08&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sourabh-sahu-08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=sourabh-sahu-08&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sourabh-sahu-08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+# 📈 Contribution Graph:
+[![Sourabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabh-sahu-08&theme=github-compact&hide_border=true&area=true)](https://github.com/sourabh-sahu-08)
+
+---
+
+# 🐍 Contribution Snake:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sourabh-sahu-08/sourabh-sahu-08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+[![](https://komarev.com/ghpvc/?username=sourabh-sahu-08&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
