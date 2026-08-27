@@ -94,18 +94,7 @@
 
 <br>
 
-## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-sahu-08&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=sourabh-sahu-08&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-sahu-08&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
-</div>
-
-<br>
 
 ## 🟩 Contribution Activity
 
