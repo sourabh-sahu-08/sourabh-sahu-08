@@ -32,14 +32,19 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="33.3%">
       <h3>🎓 StuHub</h3>
       <p><em>AI-powered academic workspace</em></p>
       <p><img src="./assets/blinking-dot.svg" width="12" /> <code>ACTIVE DEVELOPMENT</code></p>
     </td>
-    <td width="50%">
+    <td width="33.3%">
       <h3>🩸 LifeLink</h3>
       <p><em>Smart blood donation platform</em></p>
+      <p><img src="./assets/blinking-dot.svg" width="12" /> <code>ACTIVE DEVELOPMENT</code></p>
+    </td>
+    <td width="33.3%">
+      <h3>🤖 KhudSeKrle</h3>
+      <p><em>AI-powered code debugger</em></p>
       <p><img src="./assets/blinking-dot.svg" width="12" /> <code>ACTIVE DEVELOPMENT</code></p>
     </td>
   </tr>
@@ -58,6 +63,14 @@
         <li>Emergency blood requests routing</li>
         <li>Chatbot support system</li>
         <li>Location-based services</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>AI-powered code debugging</li>
+        <li>Error analysis and explanations</li>
+        <li>Intelligent suggestions for fixing issues</li>
+        <li>Code understanding and improvement assistance</li>
       </ul>
     </td>
   </tr>
