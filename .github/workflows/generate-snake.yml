@@ -18,13 +18,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       
-      - name: Generate GitHub Contribution Snake (Dragon Energy Palette)
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sourabh-sahu-08
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffaa00&color_dots=#0d1117,#2a1846,#4a297a,#7f3bbf,#ffbf00
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
