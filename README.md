@@ -144,3 +144,14 @@
 <div align="center">
   <i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i>
 </div>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sourabh-sahu-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sourabh-sahu-08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sourabh-sahu-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=sourabh-sahu-08&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
