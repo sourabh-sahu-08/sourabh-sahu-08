@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sourabh Sahu 👋..
+# Hi, I'm Sourabh Sahu 👋...
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-Powered+Applications;MERN+Stack+Developer;Turning+Ideas+Into+Products" alt="Typing SVG" />
 
